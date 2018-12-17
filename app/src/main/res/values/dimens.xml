@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_wide" />
+    <dimen name="body_top_margin" />
+    <dimen name="image_left_margin" />
+    <dimen name="standard_margin" />
+    <dimen name="small_padding" />
+    <dimen name="fab_margin">16dp</dimen>
+</resources>

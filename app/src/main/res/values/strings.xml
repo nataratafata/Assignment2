@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Music App</string>
+    <string name="collection_name">COLLECTION_NAME</string>
+    <string name="artist_name">ARTIST_NAME</string>
+    <string name="track_price">$_PRICE</string>
+    <string name="Rock">Rock</string>
+    <string name="Classic">Classic</string>
+    <string name="Pop">Pop</string>
+    <string name="Rock_music">Music</string>
+    <string name="artwork_image_description">ALBUM_PHOTO</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
